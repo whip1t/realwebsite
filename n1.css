@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Copperplate';
+    src: url('header/Copperplate.otf') format('opentype'); /* Adjust format if needed */
+}
+
+body {
+    margin: 0;
+    font-family: 'Copperplate', Arial, sans-serif; /* Fallback to Arial */
+}
+
+
+body {
+    margin: 0;
+    font-family: 'Copperplate', sans-serif;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: #ffffff;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    height: 75%;
+    overflow-x: auto; /* Allow scrolling if content overflows */
+    overflow-y: hidden;
+}
+
+
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 15px 0;
+    margin-left: 10px;
+}
+
+.sidebar ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 18px; /* Main menu item font size */
+    transition: color 0.3s;
+    display: block; /* Make links block elements */
+}
+
+.sidebar ul li a:hover {
+    color: #858585; /* Change color on hover */
+}
+
+/* Dropdown styles */
+.dropdown {
+    display: none; /* Hidden by default */
+    padding-left: 15px; /* Indent for dropdown items */
+}
+
+.sidebar ul li .dropdown li a {
+    font-size: 11px !important; /* Set font size to 8px for dropdown items with higher specificity */
+    padding: 5px 0; /* Add some padding for better spacing */
+}
+
+.sidebar ul li.active .dropdown {
+    display: block; /* Show dropdown when active */
+}
+
+.content {
+    margin-left: 250px;
+    padding: 20px;
+    flex-grow: 1;
+}
+.logo{
+    width: 250px;
+    height: 100px;
+    background-image: url(reallogo.png);
+    background-repeat: no-repeat;
+    
+}
+.logo:hover{
+    filter: blur(2.5px);
+    transition: 2s -webkit-filter linear;
+
+
+}
+.home{
+    width: 900px;
+    height: 3600px;
+    padding-bottom: 5px;
+    bottom: 50px;
+    margin-left: 35%;
+    margin-top: 50px;
+    /* position: absolute; */
+    background-color: rgb(255, 255, 255);
+    
+}

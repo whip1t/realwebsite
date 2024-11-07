@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Copperplate';
+    src: url('header/Copperplate.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'machina';
+    src: url(assets/PPNeueMachina-PlainLight.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'machina', 'Copperplate', Arial, sans-serif;
+}
+
+html, body, main {
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: #ffffff;
+    color: white;
+    padding: 20px;
+    position: fixed;
+    height: 75%;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 15px 0;
+}
+
+.sidebar ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+    display: block;
+}
+
+.sidebar ul li a:hover {
+    color: #858585;
+}
+
+.dropdown {
+    display: none;
+    padding-left: 15px;
+}
+
+.sidebar ul li .dropdown li a {
+    font-size: 11px !important;
+    padding: 5px 0;
+}
+
+.sidebar ul li.active .dropdown {
+    display: block;
+}
+
+.logo {
+    width: 250px;
+    height: 100px;
+    background-image: url(reallogo.png);
+    background-repeat: no-repeat;
+}
+
+.logo:hover {
+    filter: blur(2.5px);
+    transition: 2s -webkit-filter linear;
+}
+
+.home {
+    width: 900px;
+    height: 700px;
+    margin-left: 35%;
+    margin-top: 50px;
+    position: relative; /* Changed to relative for proper layout */
+    background-color: green;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+p {
+    width: 50%;
+    margin: 2rem 0;
+}
+
+section {
+    height: 100vh;
+}
+
+.sticky_parent {
+    height: 500vh;
+}
+
+.sticky {
+    overflow: hidden;
+    position: sticky;
+    top: 0px;
+    height: 100vh;
+}
+
+.scroll_section {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 500vw;
+    will-change: transform;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5vw;
+}
+
+img {
+    width: 400px;
+    height: 80%;
+    object-fit: cover;
+    object-position: center;
+}

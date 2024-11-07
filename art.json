@@ -1,0 +1,157 @@
+{
+    "name": "Portfolio",
+    "term": "fall 2024",    
+    "about": "Portfolio of Ryan Elgin",
+    "Projects": [ 
+    {
+    "name": "Project 1: Whipit Belt",
+    "year": "2022",
+    "medium": "",
+    "description": 20,
+    "images": [
+            {
+            "url1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4UlS1Ehv87B7_HRdQWlKz8Jw13A0zxuiuQ&s",
+            "url2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4UlS1Ehv87B7_HRdQWlKz8Jw13A0zxuiuQ&s",
+            "url3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4UlS1Ehv87B7_HRdQWlKz8Jw13A0zxuiuQ&s",
+            "url4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4UlS1Ehv87B7_HRdQWlKz8Jw13A0zxuiuQ&s",
+            "url5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4UlS1Ehv87B7_HRdQWlKz8Jw13A0zxuiuQ&s"
+            }
+            
+    ]
+
+    },
+    {
+    "name": "Project 2: Found Metal Object",
+    "year": "2023",
+    "medium": "",
+    "description": 30,
+    "images": [
+            {
+            "url1": "https://drive.google.com/file/d/1PgOuPsdoTu9Jviwp1ecyhfv7EBqIoICe/view?usp=sharing",
+            "url2": "https://drive.google.com/file/d/1q81K3HxCp-hxNUu_e8rDp-48hqpKISfw/view?usp=sharing",
+            "url3": "https://drive.google.com/file/d/1gYD3iewU-j_ZKFOCgius6ouPlYKudVpg/view?usp=sharing",
+            "url4": "https://drive.google.com/file/d/1gV5QkSDUl-rADK_OUGhP117pPYABSEwW/view?usp=sharing",
+            "url5": "https://drive.google.com/file/d/1Keoskx7mvZJj3PrFlpGhf8azZGxphpFl/view?usp=sharing",
+            "url6": "https://drive.google.com/file/d/1iX-rKzop4_xv5rcx1Xe_CBpTzSPF-MkC/view?usp=sharing"
+            }
+        ]
+    },
+    {
+    "name": "Project 3: Digital Heartbreak",
+    "year": "2021",
+    "medium": "",
+    "description": 30,
+    "images": [
+            {
+            "url1": "https://drive.google.com/file/d/1J7Q45o6WurpVYX0Kw_o7uu9SQuJxRyWp/view?usp=sharing",
+            "url2": "https://drive.google.com/file/d/19LtkRyqZXkx7bPpOrJYjuGkTv-IFdmmT/view?usp=sharing",
+            "url3": "https://example.com/project2_image3.jpg",
+            "url4": "https://example.com/project2_image4.jpg"
+            }
+            ]
+    },
+    {
+    "name": "Project 4: Lighting Box",
+    "year": "2023",
+    "medium": "",
+    "description": 30,
+    "images": [
+            {
+            "url1": "https://drive.google.com/file/d/1LthAJf_slCNNhT6X54o2amtH2Du-BOFa/view?usp=sharing",
+            "url2": "https://drive.google.com/file/d/1bUx-kHoKGKqe9Mq82I-iOWQKZ7qhkk87/view?usp=sharing",
+            "url3": "https://example.com/project2_image3.jpg",
+            "url4": "https://example.com/project2_image4.jpg"
+            }
+            ]
+    },
+    {
+    "name": "Project 5: S Isomer K Drip",
+    "year": "2024",
+    "medium": "",
+    "description": 30,
+    "images": [
+            {
+            "url1": "https://drive.google.com/file/d/11PMsCq3WhoMx3KNU0bh1loG1-hsNAdJC/view?usp=sharing",
+            "url2": "https://drive.google.com/file/d/1O91sRAdtsyE2Fb5b6EZ3p_7BVGnMC8Yv/view?usp=sharing",
+            "url3": "https://drive.google.com/file/d/1HsBLBslqactA5jJpNd05_T0piYBSxUzB/view?usp=sharing",
+            "url4": "https://drive.google.com/file/d/1Hz0JnTV48Y1TjOzNaNFSqSaGcXhVXIqG/view?usp=sharing",
+            "url5": "https://drive.google.com/file/d/1XitKexEpFtCQOA_YfU4CMfUGB9EEMbkS/view?usp=sharing",
+            "url6": "https://drive.google.com/file/d/1LRGVYCyGXQiJru8iprlVxufbqIcACgMb/view?usp=sharing",
+            "url7": "https://drive.google.com/file/d/1KVkVQULDN5SXH7UNf4EHXCcd39ykxRUq/view?usp=sharing",
+            "url8": "https://drive.google.com/file/d/1SdDk5EhWruy3Z91QBh1Gf9k7dSPIpS-v/view?usp=sharing"
+
+            }
+            ]
+    },
+    {
+    "name": "Project 6: Plastik",
+    "year": "2024",
+    "medium": "",
+    "description": 30,
+    "images": [
+            {
+            "url1": "https://drive.google.com/file/d/1Nm1HLaOoAd_4AmEQbhaAUwEL2XoGCMu2/view?usp=sharing",
+            "url2": "https://drive.google.com/file/d/13NmnxqoHTUnWWVROrhBFRDdknDx_2inZ/view?usp=sharing",
+            "url3": "https://drive.google.com/file/d/1PyX70JsdGHWUPxqu0Ikf0WlzB9LlkVpA/view?usp=sharing",
+            "url4": "https://drive.google.com/file/d/1MkrjfipUiujcMQhCdvp63p0-yQ2o2esl/view?usp=sharing"
+            }
+            ]
+    },
+
+    {
+    "name": "Project 7: Untitled Mirror",
+    "year": "2024",
+    "medium": "",
+    "description": 30,
+    "images": [
+            {
+            "url1": "https://drive.google.com/file/d/1Tn7bbOiqUwYCUZCYde7m976neKoejIU-/view?usp=sharing",
+            "url2": "https://drive.google.com/file/d/1rB5cBdslWjrGemmMp-2wxq08SzEHz0f7/view?usp=sharing",
+            "url3": "https://example.com/project2_image3.jpg",
+            "url4": "https://example.com/project2_image4.jpg"
+            }
+            ]
+    },
+    {
+    "name": "Project 8: Untitled collab with Flora Cao",
+    "year": "2024",
+    "medium": "",
+    "description": 30,
+    "images": [
+            {
+            "url1": "https://drive.google.com/file/d/1fPr1T4ja6tUFfqgZ9CrarAxzhPb5IW-s/view?usp=sharing",
+            "url2": "https://drive.google.com/file/d/1e8lYozW4CyhHgsXmKeCRwy-_pAHAhcnd/view?usp=sharing",
+            "url3": "https://drive.google.com/file/d/1TQwy05Rx0mgZV9QyhjBHqaBxG2amYdUt/view?usp=sharing",
+            "url4": "https://example.com/project2_image4.jpg"
+            }
+            ]
+    },
+    {
+    "name": "Project 9: Sustain Release",
+    "year": "Development",
+    "medium": "",
+    "description": 30,
+    "images": [
+            {
+            "url1": "https://www.sustain-release.com/year-ten-2024",
+            "url2": "https://example.com/project2_image2.jpg",
+            "url3": "https://example.com/project2_image3.jpg",
+            "url4": "https://example.com/project2_image4.jpg"
+            }
+            ]
+    },
+    {
+    "name": "Project 10: Untitled",
+    "year": "Development",
+    "medium": "",
+    "description": 30,
+    "images": [
+            {
+            "url1": "https://example.com/project2_image1.jpg",
+            "url2": "https://example.com/project2_image2.jpg",
+            "url3": "https://example.com/project2_image3.jpg",
+            "url4": "https://example.com/project2_image4.jpg"
+            }
+            ]
+    }
+    ]}
